@@ -1,0 +1,16 @@
+.navbar {
+    background: rgb(12,164,124);
+}
+
+#logo {
+    margin-right: 25px;
+    margin-left: 20px;
+}
+
+.quem-somos{
+    background-color: rgba(252, 234, 71, 0.515);
+}
+
+.margin {
+    padding-top: 50px;
+}
