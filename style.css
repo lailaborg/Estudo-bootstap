@@ -1,3 +1,7 @@
+body{
+    font: 20px Arial, sans-serif;
+}
+
 .navbar {
     background: rgb(12,164,124);
 }
@@ -8,9 +12,37 @@
 }
 
 .quem-somos{
-    background-color: rgba(252, 234, 71, 0.515);
+    background-color:#FFFFFF;
+
+}
+
+h1{
+    padding-bottom: 50px;
+}
+
+.opacity{
+    opacity: 0.8;
+}
+
+.opacity:hover{
+    opacity: 0.9;
 }
 
 .margin {
-    padding-top: 50px;
+    padding-top: 65px;
+    padding-bottom: 50px;
+}
+
+.produtos {
+    background: linear-gradient(to top, rgba(249, 181, 11, 0.497),rgb(255, 255, 255));
+}
+
+.contato {
+    background-color:  rgba(249, 181, 11, 0.497);
+}
+
+.bg-footer{
+    background-color:  rgb(12,164,124);
+    padding: 13px;
+    font-size: 15px;
 }
