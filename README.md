@@ -1,2 +1,2 @@
 # Estudo-bootstap
-Exercício da aula de introdução ao bootstap da DIO.
+Exercício da aula de introdução ao bootstrap da DIO.
